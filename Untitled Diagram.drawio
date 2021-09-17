@@ -1,1 +1,146 @@
-<mxfile host="app.diagrams.net" modified="2021-09-17T11:25:46.299Z" agent="5.0 (Windows)" version="15.2.9" etag="Gi2VvmE1dp2WeBGzFR-U" type="github"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">7VhZc9MwEP41Hp5gfBQnecRp0wKhU2ihw6NiK7aI7DWynINfzyqWYzsOOYD0yDQv0a43K2m/b4/YcPrx/FKQNPoEAeWGbQZzwzk3bNuybQe/lGZRaLq9bqEIBQu0UaW4Zb+oVppam7OAZg1DCcAlS5tKH5KE+rKhI0LArGk2Bt7cNSUhbSlufcLb2nsWyEjfwu5U+ivKwqjc2XJ7xZOYlMb6JllEApjVVM6F4fQFgCxW8bxPuQpeGZf794t7Ppy4lx8+Zz/JV+/j3fW314WzwSE/WV1B0ET+X9d24XpKeK7jpe8qF2UABeRJQJUT03C8SMYclxYuf1ApFxpwkktAFQgZQQgJ4UOAVNuNIZHazFIyTYJ3CliURxz8SaEaMM71Hihp+y5KmRQwWWGnHKyAUMacjCj3iD8JlwftAweBjxJIqHIVIBn0XarDXVRab8/YagwyyIVPt9jpbJFEhHSbP7ewU+er8VQjd0khplIs0EBQTiSbNslMdE6EK7sKd1xo6A+ggdOiwZDEqcp6oFnySuJqBmKyhRsKl1nEJL1NyTJAMywnTb7UeYBX9UJOskyjuAPkw0CaUiHpfGtYy6euzu2yuGlxVlUKq0z/qFYlzswjAXHWAuI7Fs+XlPyXlHT3TMmyY+3MSU2Wkhh7p6j2dAMskTUTGI8zPNg6dVYb/j2b3rbYdA0tMu3G41nT7ZHI1DmMS9aT55L7hxbhcgyDNxK4CtUq5XkYIlnQXWI4g3btiiAe5dnudtHAWDFoQGLGVbyuKJ9SyXyyoakQzkLc99xHuKnYTB7ckiUhSm4l3S3JivX3iM2m02w2K7nebcwN3aZ7rG7TaWF6g+gV0NkmX+J7Yh3fsddA6D12y+/uU6SfdQl+8I5fVtPdLd/as0xr9phvHPw0CPT0p4DeXjPlyxhwHIbZpzYIlCes8cnL+ag9CYxykSwHAcjlyySwbRKwNzWhB50EykJYA/ULTQlDMM3hKc4B6//8z5zHngPKStGEgKuY2maRYSeGwfos5ljHwwDF6k1tUQqr993OxW8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-17T14:52:17.748Z" agent="5.0 (Windows)" etag="zRLEXWuCxgD4kif11MrL" version="15.2.9" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="860" dy="417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="z6fKE8jfNeZlUit592Hx-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="z6fKE8jfNeZlUit592Hx-0" target="z6fKE8jfNeZlUit592Hx-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z6fKE8jfNeZlUit592Hx-0" value="Начало" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="340" y="50" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z6fKE8jfNeZlUit592Hx-3" value="Загрузка младшего байта FLAGS в регистр AH" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="326.24" y="350" width="157.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="z6fKE8jfNeZlUit592Hx-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="z6fKE8jfNeZlUit592Hx-4" target="z6fKE8jfNeZlUit592Hx-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z6fKE8jfNeZlUit592Hx-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="z6fKE8jfNeZlUit592Hx-4" target="z6fKE8jfNeZlUit592Hx-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z6fKE8jfNeZlUit592Hx-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="z6fKE8jfNeZlUit592Hx-4" target="z6fKE8jfNeZlUit592Hx-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z6fKE8jfNeZlUit592Hx-4" value="&lt;div&gt;Установлен ли&lt;/div&gt;&lt;div&gt; флаг DF или&lt;/div&gt;&lt;div&gt; старший бит IOPL по адресу 0040:0314?&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="285.62" y="460" width="238.75" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="z6fKE8jfNeZlUit592Hx-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="z6fKE8jfNeZlUit592Hx-5" target="z6fKE8jfNeZlUit592Hx-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z6fKE8jfNeZlUit592Hx-5" value="Загрузка в DS 40h (начало области данных BIOS)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="326.25" y="240" width="157.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="z6fKE8jfNeZlUit592Hx-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="z6fKE8jfNeZlUit592Hx-6" target="z6fKE8jfNeZlUit592Hx-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z6fKE8jfNeZlUit592Hx-6" value="Сохранение регистров DS, AX" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="326.25" y="130" width="157.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="z6fKE8jfNeZlUit592Hx-7" value="Сброс флага разрешения прерывания IF по адресу 0040:0314 с помощью зануления 9-ого бита" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="520" y="585" width="157.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="z6fKE8jfNeZlUit592Hx-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="z6fKE8jfNeZlUit592Hx-8" target="z6fKE8jfNeZlUit592Hx-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="207" y="700" />
+              <mxPoint x="599" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z6fKE8jfNeZlUit592Hx-8" value="Сброс флага разрешения прерывания IF инструкцией &#39;cli&#39;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="128.12" y="585" width="157.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="z6fKE8jfNeZlUit592Hx-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="z6fKE8jfNeZlUit592Hx-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="404.99" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z6fKE8jfNeZlUit592Hx-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="z6fKE8jfNeZlUit592Hx-9" target="z6fKE8jfNeZlUit592Hx-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z6fKE8jfNeZlUit592Hx-9" value="Загрузка AH в младший байт регистра FLAGS" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="326.24" y="740" width="157.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="z6fKE8jfNeZlUit592Hx-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="z6fKE8jfNeZlUit592Hx-10" target="z6fKE8jfNeZlUit592Hx-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z6fKE8jfNeZlUit592Hx-10" value="Восстановление регистров AX, DS" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="326.24" y="860" width="157.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="z6fKE8jfNeZlUit592Hx-11" value="Конец" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="339.99" y="990" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z6fKE8jfNeZlUit592Hx-26" value="Да" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="545" y="490" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="z6fKE8jfNeZlUit592Hx-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="z6fKE8jfNeZlUit592Hx-27" target="z6fKE8jfNeZlUit592Hx-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z6fKE8jfNeZlUit592Hx-27" value="Начало" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="339.99" y="1140" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z6fKE8jfNeZlUit592Hx-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="z6fKE8jfNeZlUit592Hx-28" target="z6fKE8jfNeZlUit592Hx-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z6fKE8jfNeZlUit592Hx-28" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="328.12" y="1230" width="153.76" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="z6fKE8jfNeZlUit592Hx-29" value="Вызов подпрограммы sub_3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="385" y="1265" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="z6fKE8jfNeZlUit592Hx-36" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.468;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="z6fKE8jfNeZlUit592Hx-30" target="z6fKE8jfNeZlUit592Hx-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z6fKE8jfNeZlUit592Hx-30" value="Загрузка в DS 40h (начало области данных BIOS)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="326.25" y="1460" width="157.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="z6fKE8jfNeZlUit592Hx-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="z6fKE8jfNeZlUit592Hx-32" target="z6fKE8jfNeZlUit592Hx-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z6fKE8jfNeZlUit592Hx-32" value="Сохранение регистров ES, DS, AX, DX" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="326.25" y="1350" width="157.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="z6fKE8jfNeZlUit592Hx-35" value="Инкремент двух младших байт счётчика реального времени по адресу 0040:006Ch" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="328.12" y="1580" width="157.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="z6fKE8jfNeZlUit592Hx-42" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="z6fKE8jfNeZlUit592Hx-37" target="z6fKE8jfNeZlUit592Hx-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z6fKE8jfNeZlUit592Hx-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="z6fKE8jfNeZlUit592Hx-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="1920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z6fKE8jfNeZlUit592Hx-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.532;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=classic;endFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="z6fKE8jfNeZlUit592Hx-37" target="z6fKE8jfNeZlUit592Hx-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z6fKE8jfNeZlUit592Hx-37" value="&lt;div&gt;Два младших байта&lt;/div&gt;&lt;div&gt; счётчика &lt;br&gt;&lt;/div&gt;&lt;div&gt;реального времени по адресу 0040:006Ch = 0?&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="285.62" y="1690" width="244.38" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="z6fKE8jfNeZlUit592Hx-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="z6fKE8jfNeZlUit592Hx-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="1920" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="619" y="1920" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z6fKE8jfNeZlUit592Hx-38" value="Инкремент двух старших байт счётчика реального времени по адресу 0040:006Eh" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="540" y="1810" width="157.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="z6fKE8jfNeZlUit592Hx-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="z6fKE8jfNeZlUit592Hx-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="395.2380952380952" y="1920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z6fKE8jfNeZlUit592Hx-39" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="365" y="1940" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z6fKE8jfNeZlUit592Hx-40" value="А" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="375" y="1960" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
